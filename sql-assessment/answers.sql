@@ -1,3 +1,5 @@
+Anjay Rao
+
 #1. Write a query to get the sum of impressions by day.
 SELECT DATE(date) AS day, SUM(impressions) AS total_impressions
 FROM marketing_performance
